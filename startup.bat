@@ -8,3 +8,6 @@ call venv\Scripts\activate
 
 REM Open Visual Studio Code and navigate to the project folder
 code .
+
+REM Close the Command Prompt window
+exit
